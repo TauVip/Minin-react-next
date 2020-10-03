@@ -12,4 +12,4 @@ export default function Index() {
   )
 }
 
-// NextJS Быстрый Курс - SSR на React JS [2020] | 1:23:20 / 2:34:31 • Создание API мок сервера
+// NextJS Быстрый Курс - SSR на React JS [2020] | 1:43:25 / 2:34:31 • Загрузка данных

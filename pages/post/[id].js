@@ -6,6 +6,7 @@ export default function Post() {
   return (
     <MainLayout>
       <h1>Post { router.query.id }</h1>
+      <p>{ router.query.id }</p>
     </MainLayout>
   )
 }

@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First article",
+      "body": "First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text First article text"
+    },
+    {
+      "id": 2,
+      "title": "Second article",
+      "body": "Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text Second article text"
+    },
+    {
+      "id": 3,
+      "title": "Third article",
+      "body": "Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text Third article text"
+    }
+  ]
+}

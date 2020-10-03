@@ -12,7 +12,7 @@ export function MainLayout({ children, title = 'Next App' }) {
       </Head>
       <nav>
         <Link href={'/'}><a>Home</a></Link>
-        <Link href={'about'}><a>About</a></Link>
+        <Link href={'/about'}><a>About</a></Link>
         <Link href={'/posts'}><a>Posts</a></Link>
       </nav>
       <main>
