@@ -11,5 +11,3 @@ export default function Index() {
     </MainLayout>
   )
 }
-
-// NextJS Быстрый Курс - SSR на React JS [2020] | 1:43:25 / 2:34:31 • Загрузка данных
